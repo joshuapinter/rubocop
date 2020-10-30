@@ -95,6 +95,7 @@ RSpec.describe RuboCop::Options, :isolated_environment do
                                                This option applies to the previously
                                                specified --format, or the default format
                                                if no format is specified.
+                  --display-time               Show elapsed time.
                   --display-only-failed        Only output offense messages. Omit passing
                                                cops. Only valid for --format junit.
               -r, --require FILE               Require Ruby file.

@@ -2,6 +2,10 @@
 
 ## master (unreleased)
 
+### New features
+
+* [#8925](https://github.com/rubocop-hq/rubocop/issues/8925): Add `--display-time` option for displaying elapsed time of `rubocop` command. ([@joshuapinter][])
+
 ### Bug fixes
 
 * [#8912](https://github.com/rubocop-hq/rubocop/pull/8912): Fix `Layout/ElseAlignment` for `rescue/else/ensure` inside `do/end` blocks with assignment. ([@miry][])
